@@ -1,2 +1,2 @@
-baseURL = "https://gethyas.com/"
+baseURL = "https://docs-gethyas-test.vercel.app/"
 canonifyURLs = true
