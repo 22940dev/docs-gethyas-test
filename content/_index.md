@@ -1,5 +1,5 @@
 ---
-title : "Modern Hugo Starter"
+title : "Simple docs starter"
 description: "Hyas is a Hugo starter helping you build modern websites that are secure, fast, and SEO-ready — by default."
 lead: "Hyas is a Hugo starter helping you build modern websites that are secure, fast, and SEO-ready — by default."
 date: 2020-10-06T08:47:36+00:00
